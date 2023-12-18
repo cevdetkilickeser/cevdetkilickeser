@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**cevdetkilickeser/cevdetkilickeser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Cevdet!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a passionate mobile app developer with a junior level in Kotlin for Android and an ongoing journey into React Native. Last year I entered the world of technology and found my interest for coding and creating innovative solutions. I wake up every day to code a little more and take myself one step further. Some nights I can't sleep because of this :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Skills
+Languages: Kotlin, React Native, Python, SQL
+Mobile Development: Android (native), React Native
+Database: SQL (basic knowledge)
+
+
+📫 Let's Connect!
+LinkedIn: https://www.linkedin.com/in/cevdet-kilickeser-012769156/
+Email: kilickesercevdet@gmail.com
+🤝 Open for Collaboration
+I'm open to collaboration and always excited about new opportunities. If you have a project or an idea, feel free to reach out! Let's create something awesome together.
+
+Thanks for stopping by! Happy coding! 🚀
