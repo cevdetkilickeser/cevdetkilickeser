@@ -1,15 +1,15 @@
 
 👋 Hello, I'm Cevdet!
 
-Welcome to my GitHub profile! I am a passionate mobile app developer with a junior level in Kotlin for Android and an ongoing journey into React Native. Last year I entered the world of technology and found my interest for coding and creating innovative solutions. I wake up every day to code a little more and take myself one step further. Some nights I can't sleep because of this :)
+Welcome to my GitHub profile! I am a passionate mobile app developer with a junior level in Kotlin for Android. Last year I entered the world of technology and found my interest for coding and creating innovative solutions. I wake up every day to code a little more and take myself one step further. Some nights I can't sleep because of this :)
 
 
 
 🔧 Technologies & Skills:
 
-Languages: Kotlin, React Native, Python, SQL
+Languages: Kotlin, SQL
 
-Mobile Development: Android (native), React Native
+Mobile Development: Android (native)
 
 Database: SQL (basic knowledge)
 
