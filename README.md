@@ -17,7 +17,7 @@ Database: SQL (basic knowledge)
 
 📫 Let's Connect!
 
-LinkedIn: https://www.linkedin.com/in/cevdet-kilickeser-012769156/
+LinkedIn: https://www.linkedin.com/in/cevdet-kilickeser/
 
 Email: kilickesercevdet@gmail.com
 
