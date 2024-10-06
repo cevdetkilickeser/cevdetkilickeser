@@ -1,7 +1,7 @@
 
 👋 Hello, I'm Cevdet!
 
-Welcome to my GitHub profile! I am a passionate mobile app developer with a junior level in Kotlin for Android. Last year I entered the world of technology and found my interest for coding and creating innovative solutions. I wake up every day to code a little more and take myself one step further. Some nights I can't sleep because of this :)
+Welcome to my GitHub profile! I am a passionate mobile app developer with a junior level in Kotlin for Android. Last year I entered the world of technology and found my interest for coding and creating innovative solutions. I wake up every day to code a little more and take myself one step further. 
 
 
 
