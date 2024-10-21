@@ -19,6 +19,8 @@ Database: SQL (basic knowledge)
 
 LinkedIn: https://www.linkedin.com/in/cevdet-kilickeser/
 
+Medium: https://medium.com/@kilickesercevdet
+
 Email: kilickesercevdet@gmail.com
 
 
